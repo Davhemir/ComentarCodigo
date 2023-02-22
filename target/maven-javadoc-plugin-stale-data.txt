@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/davhe/Documents/NetBeansProjects/ComentarCodigo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/davhe/Documents/NetBeansProjects/ComentarCodigo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ComentarCodigo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ComentarCodigo 1.0-SNAPSHOT API'
+com.mycompany.comentarcodigo
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\src\main\java = 1677061651598
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\allclasses-index.html = 1677062291333
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\allpackages-index.html = 1677062291336
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\element-list = 1677062291297
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\help-doc.html = 1677062291355
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\index-all.html = 1677062291348
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\index.html = 1677062291351
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\jquery-ui.overrides.css = 1677062291382
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\member-search-index.js = 1677062291340
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\module-search-index.js = 1677062291337
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\overview-tree.html = 1677062291321
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\package-search-index.js = 1677062291338
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\script.js = 1677062291359
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\search.js = 1677062291361
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\stylesheet.css = 1677062291358
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\tag-search-index.js = 1677062291341
+C:\Users\davhe\Documents\NetBeansProjects\ComentarCodigo\target\site\apidocs\type-search-index.js = 1677062291339
